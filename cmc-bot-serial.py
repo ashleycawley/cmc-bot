@@ -101,7 +101,7 @@ def main():
     # Set up the SerialInterface for message listening
     local = SerialInterface(serial_port)
     print("SerialInterface setup for listening.")
-    print("Cornwall Meshtastic Community Bot has started.")
+    print("Cornwall Meshtastic Community Bot Serial Edition has started.")
 
     # Keep the script running to listen for messages
     try:

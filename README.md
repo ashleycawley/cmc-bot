@@ -1,4 +1,4 @@
-# cmc-bot (Cornwall Meshtastic Community Discord Bot)
+# Cornwall Meshtastic Community Discord Bot
 A python command line script to receive messages from Meshtastic and then publish those to a Discord server channel. Run either the <b>'cmc-bot-serial.py'</b> script OR the <b>'cmc-bot-tcp.py'</b> script, and it will connect to your radio (via either Serial or TCP) and display any text messages received by your node, on any channel, including private/direct messages and will then publish those to a Discord server channel of your choosing.
 
 Script is confirmed to work on Windows and Linux (and possibly other OSs).
